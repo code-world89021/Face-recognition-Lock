@@ -1,3 +1,4 @@
-opencv-python
-Face_recognition
-numpy
+pip install opencv-python
+pip install Face_recognition
+pip install numpy
+pip install pyttsx3
